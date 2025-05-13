@@ -15,7 +15,7 @@ subscribers can post tasks and receive reminders of those tasks.
 If this topic doesn't tell you what you want to know about
 the To-Do service, try one of these overview topics.
 
-* [_Placeholder_](./overviews/placeholder.md)
+* [To-Do Overview](https://github.com/lyerdev/to-do-service-sp25/blob/9dc3947f019fb2817ef027a370687058fe643a14/docs/overviews/to-do-overview_lyerdev.md)
 
 ## Quickstart
 
