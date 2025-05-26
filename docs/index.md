@@ -2,28 +2,26 @@
 layout: page
 ---
 
-# To-Do service API
+# To-Do Service API
 
 This is a mock API to simulate the REST interface of an
 imaginary service.
 
-The To-Do service provides a cloud-hosted task list through which
+The To-Do Service provides a cloud-hosted task list through which
 subscribers can post tasks and receive reminders of those tasks.
 
 ## Overviews
 
 If this topic doesn't tell you what you want to know about
-the To-Do service, try one of these overview topics.
-
-* [To-Do Overview](https://github.com/lyerdev/to-do-service-sp25/blob/9dc3947f019fb2817ef027a370687058fe643a14/docs/overviews/to-do-overview_lyerdev.md)
+the To-Do Service, try one of these overview topics.
 
 ## Quickstart
 
-[Post your first task _(coming soon)_](#quickstart) with the To-Do service to see how easy it is to use!
+[Post your first task _(coming soon)_](#quickstart) with the To-Do Service to see how easy it is to use.
 
 ## Tutorials
 
-Learn how to do common tasks with in the To-Do service.
+Learn how to do common tasks with in the To-Do Service.
 
 First, do this tutorial to set up your development system for these tutorials. You only have to do this one time per development system.
 
@@ -33,6 +31,8 @@ After your system is ready, these tutorials show you how to perform common tasks
 
 * [Enroll a new user](tutorials/enroll-a-new-user.md)
 * [Add a new task](tutorials/add-a-new-task.md)
+* [Get all tasks](tutorials/get-all-tasks.md)
+* [Get a user by last name](tutorials/get-a-user-by-last-name.md)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
 * [Delete a task _(coming soon)_](#tutorials)
 
